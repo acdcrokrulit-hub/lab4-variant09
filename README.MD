@@ -22,8 +22,4 @@
 
 ---
 
-## Запуск проекта
 
-1. Склонировать репозиторий:  
-   ```bash
-   git clone https://github.com/ТВОЙ_НИК/lab4-variant09.git
